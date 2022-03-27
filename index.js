@@ -384,4 +384,4 @@ Hastebin.upload(collected.first().content, link => {
 })
 
 
-client.login(process.env.token)
+client.login('OTM4ODUyMTE1MDUxMzI3NTU5.YfwUKw.I25Gp81gqiVxzbyWkUTvB165Nns')
